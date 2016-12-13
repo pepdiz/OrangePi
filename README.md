@@ -74,7 +74,7 @@ Lo primero es poner al dia el sistema:
 
 Si quieres puedes reconfigurar el *time zone*:
 
-    dpgk-reconfigura tzdata
+    dpgk-reconfigure tzdata
 
 Conexión WIFI
 -------------
